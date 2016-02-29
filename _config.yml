@@ -1,0 +1,28 @@
+name: avoiceofwarning
+favicon: null
+layout_spectrum: 0.5645932031329721
+typography_spectrum: 0.9647465937305242
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7954994908068329
+  lightness: 0.19288872578181326
+  saturation: 0.8341274345293641
+  rhythmicContrast: 0.9596827761270106
+purpose: []
